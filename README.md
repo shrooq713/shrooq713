@@ -26,10 +26,18 @@
 ### 🗄️ Databases and cloud hosting
 
 <p>
-    <code><img alt="MongoDB" src ="https://www.svgrepo.com/show/303232/mongodb-logo.svg" width="40px"></code>
+    <code><img alt="MongoDB" src ="https://www.svgrepo.com/show/303232/mongodb-logo.svg" width="40px"></code> 
     <code><img alt="MySQL" src="https://www.svgrepo.com/show/306453/mysql.svg" width="40px"></code>
     <code><img alt="Redis" src="https://www.svgrepo.com/show/354272/redis.svg" width="40px"></code>
-   
+</p>
+
+### 💻 Software and tools
+
+<p>
+   - <code><img alt="Docker" src="https://www.svgrepo.com/show/373553/docker.svg" width="40px"></code> Docker
+   - <code><img alt="Swagger" src="https://www.svgrepo.com/show/374111/swagger.svg" width="40px"></code> Swagger
+   - <code><img alt="Kafka" src="https://www.svgrepo.com/show/353951/kafka-icon.svg" width="40px"></code> Kafka
+   - <code><img alt="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40px"></code> Postman
 </p>
 
 
