@@ -34,10 +34,10 @@
 ### 💻 Software and tools
 
 <p>
-   - <p><img alt="Docker" src="https://www.svgrepo.com/show/373553/docker.svg" width="40px"> Docker</p> 
-   - <code><img alt="Swagger" src="https://www.svgrepo.com/show/374111/swagger.svg" width="40px"></code> Swagger
-   - <code><img alt="Kafka" src="https://www.svgrepo.com/show/353951/kafka-icon.svg" width="40px"></code> Kafka
-   - <code><img alt="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40px"></code> Postman
+   <p> - <img alt="Docker" src="https://www.svgrepo.com/show/373553/docker.svg" width="40px"> Docker</p> 
+   <p> - <img alt="Swagger" src="https://www.svgrepo.com/show/374111/swagger.svg" width="40px"> Swagger </p> 
+   <p> - <img alt="Kafka" src="https://www.svgrepo.com/show/353951/kafka-icon.svg" width="40px"> Kafka </p> 
+   <p> - <img alt="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="40px"> Postman </p> 
 </p>
 
 
