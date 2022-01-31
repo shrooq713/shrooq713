@@ -17,7 +17,20 @@
    <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
 </p>
 
+### 🧰 Frameworks and libraries
 
+- Spring Boot 
+- Bootstrap
+- React
+
+### 🗄️ Databases and cloud hosting
+
+<p>
+    <code><img alt="MongoDB" src ="https://www.svgrepo.com/show/303232/mongodb-logo.svg"></code>
+    <code><img alt="MySQL" src="https://www.svgrepo.com/show/306453/mysql.svg"></code>
+    <code><img alt="Redis" src="https://www.svgrepo.com/show/354272/redis.svg"></code>
+   
+</p>
 
 
 <!--
