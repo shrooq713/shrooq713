@@ -9,14 +9,12 @@
     
 ### 👩🏻‍💻 Programming languages 
 <p>
-   <code><img height="30" src="https://www.svgrepo.com/show/353924/java.svg"></code>
-   <code><img height="30" src="https://www.svgrepo.com/show/353925/javascript.svg"></code>
-   <code><img height="30" src="https://www.svgrepo.com/show/303500/react-1-logo.svg"></code>
-   <code><img height="30" src="https://www.svgrepo.com/show/353623/css-3.svg"></code>
-   <code><img height="30" src="https://www.svgrepo.com/show/353884/html-5.svg"></code>
-   <code><img height="30" src="https://www.svgrepo.com/show/374016/python.svg"></code>
-   <code><img height="30" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"></code>
-   <code><img height="30" src="https://www.svgrepo.com/show/354421/swift.svg"></code>
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+   <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
+   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+   <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+   <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
 </p>
 
 
