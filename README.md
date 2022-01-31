@@ -26,9 +26,9 @@
 ### 🗄️ Databases and cloud hosting
 
 <p>
-    <code><img alt="MongoDB" src ="https://www.svgrepo.com/show/303232/mongodb-logo.svg"></code>
-    <code><img alt="MySQL" src="https://www.svgrepo.com/show/306453/mysql.svg"></code>
-    <code><img alt="Redis" src="https://www.svgrepo.com/show/354272/redis.svg"></code>
+    <code><img alt="MongoDB" src ="https://www.svgrepo.com/show/303232/mongodb-logo.svg" width="21px"></code>
+    <code><img alt="MySQL" src="https://www.svgrepo.com/show/306453/mysql.svg" width="21px"></code>
+    <code><img alt="Redis" src="https://www.svgrepo.com/show/354272/redis.svg" width="21px"></code>
    
 </p>
 
