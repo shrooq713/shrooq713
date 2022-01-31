@@ -7,6 +7,21 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23804F79&lines=Software+Engineer.;Always+try+exploring+new+things+;in+software+development+to+solve;real-world+problems."></a>
 </p>
     
+### 👩🏻‍💻 Programming languages 
+<p>
+   <code><img height="20" src="https://www.svgrepo.com/show/353924/java.svg"></code>
+   <code><img height="20" src="https://www.svgrepo.com/show/353925/javascript.svg"></code>
+   <code><img height="20" src="https://www.svgrepo.com/show/303500/react-1-logo.svg"></code>
+   <code><img height="20" src="https://www.svgrepo.com/show/353623/css-3.svg"></code>
+   <code><img height="20" src="https://www.svgrepo.com/show/353884/html-5.svg"></code>
+   <code><img height="20" src="https://www.svgrepo.com/show/374016/python.svg"></code>
+   <code><img height="20" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg"></code>
+   <code><img height="20" src="https://www.svgrepo.com/show/354421/swift.svg"></code>
+</p>
+
+
+
+
 <!--
 **shrooq713/shrooq713** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
