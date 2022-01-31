@@ -26,8 +26,8 @@
 ### 🗄️ Databases
 
 <p>
-    <p> - <img alt="MongoDB" src ="https://www.svgrepo.com/show/303232/mongodb-logo.svg" width="20px"> MongoDB</p> 
-    <p> - <img alt="MySQL" src="https://www.svgrepo.com/show/306453/mysql.svg" width="20px"> MySQL</p>
+    <p> - <img alt="MongoDB" src ="https://www.svgrepo.com/show/331488/mongodb.svg" width="20px"> MongoDB</p> 
+    <p> - <img alt="MySQL" src="https://www.svgrepo.com/show/355133/mysql.svg" width="20px"> MySQL</p>
     <p> - <img alt="Redis" src="https://www.svgrepo.com/show/354272/redis.svg" width="20px"> Redis</p>
 </p>
 
