@@ -31,13 +31,15 @@
     <p> - <img alt="Redis" src="https://www.svgrepo.com/show/354272/redis.svg" width="20px"> Redis</p>
 </p>
 
-### 💻 Software and tools
+### 💻 Tools
 
 <p>
    <p> - <img alt="Docker" src="https://www.svgrepo.com/show/373553/docker.svg" width="20px"> Docker</p> 
    <p> - <img alt="Swagger" src="https://www.svgrepo.com/show/374111/swagger.svg" width="20px"> Swagger </p> 
    <p> - <img alt="Kafka" src="https://www.svgrepo.com/show/353951/kafka-icon.svg" width="20px"> Kafka </p> 
    <p> - <img alt="Postman" src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="20px"> Postman </p> 
+   <p> - <img alt="Git" src="https://www.svgrepo.com/show/353782/git-icon.svg" width="20px"> Git </p> 
+   
 </p>
 
 
